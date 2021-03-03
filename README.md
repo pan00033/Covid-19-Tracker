@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+# Covid-19-Tracker
+
+# Work Flow
+1. Create Wireframe
+2. Create React App
+3. Clean Up Project
+4. Structure of COVID Tracker
+5. Create Header
+6. Create Info Box
+7. Create Table
+8. Create Chart
+9. Create Map
+10. Styling
+11. Deploy
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
