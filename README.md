@@ -1,5 +1,11 @@
 # Covid-19-Tracker
 
+# Technology Stack
+*REACT
+*MATERIAL UI
+*FIREBASE
+*WIREFRAME
+
 # Work Flow
   1. Create Wireframe
   2. Create React App
