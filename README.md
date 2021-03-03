@@ -10,8 +10,8 @@
   7. Create Table
   8. Create Chart
   9. Create Map
-  10. Styling
-  11. Deploy
+   10. Styling
+   11. Deploy
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
