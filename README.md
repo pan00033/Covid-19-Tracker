@@ -1,10 +1,20 @@
 # Covid-19-Tracker
+Deployed using firebase on the following link: https://covid-19-tracker-7a3c0.web.app/
+
+# Features
+* Live statistics about live/recovery/death cases related to COVID-19.
+* Case statistics both worlwide cases and individual country cases.
+* Line Graph that provides visual fluctuations over a period of time. 
+* A map that provides visual information of intensity of COVID-19 in different regions. 
+* Showing individual country statistics by simply clicking on random location of the map. 
 
 # Technology Stack
 * REACT
 * MATERIAL UI
 * FIREBASE
-* WIREFRAME
+* WIREFRAME(draw.io)
+* AJAJ
+* COVID-19 API(disease.sh)
 
 # Work Flow
   1. Create Wireframe
