@@ -12,7 +12,7 @@ Deployed using firebase on the following link: https://covid-19-tracker-7a3c0.we
 * REACT
 * MATERIAL UI
 * FIREBASE
-* WIREFRAME
+* WIREFRAME(draw.io)
 * AJAJ
 * COVID-19 API(disease.sh)
 
