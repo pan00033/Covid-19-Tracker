@@ -1,4 +1,5 @@
 # Covid-19-Tracker
+Deployed using firebase on the following link: https://covid-19-tracker-7a3c0.web.app/
 
 # Technology Stack
 * REACT
