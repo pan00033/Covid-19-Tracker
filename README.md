@@ -5,6 +5,8 @@
 * MATERIAL UI
 * FIREBASE
 * WIREFRAME
+* AJAJ
+* COVID-19 API(disease.sh)
 
 # Work Flow
   1. Create Wireframe
